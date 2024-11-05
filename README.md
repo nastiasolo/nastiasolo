@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anastasia
-- 👀 I’m interested in puzzles, videogames, yoga, cats
+- 👀 Things I love: puzzles, videogames, yoga, cats
 - 🌱 I’m currently learning JS & TS
 
 
