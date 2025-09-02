@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Anastasia
+- 🌱 I’m currently learning JS & TS + React
 - 💖 Things I love: puzzles, videogames, yoga, cats
-- 🌱 I’m currently learning JS & TS
+
+- 📍 Copenhagen, Denmark
 
 
 <!---
